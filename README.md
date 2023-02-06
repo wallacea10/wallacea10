@@ -2,11 +2,11 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Eduardo Ribeiro 😃️</a>
+    <a href="https://www.linkedin.com/in/ariel-wallace-72256518b/">Ariel Estima😃️</a>
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento e aprendizado no meu canal
+    Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento em portifólio!
     <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
       <img
            width="10%" 
@@ -19,7 +19,7 @@
   </p>
   
   <p align="center">
-    Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
+    Já se segue aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
   </p>
   
 </div>
