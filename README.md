@@ -6,13 +6,24 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento em portifólio!
+    💻 Sobre mim
+
+Olá! Eu sou Ariel Wallace, estudante de programação com foco em Automações e Inteligência Artificial.
+Gosto de transformar ideias em soluções práticas, criando sistemas que otimizam tarefas, conectam pessoas e trazem mais eficiência ao dia a dia.
   
    
   </p>
   
   <p align="center">
-    Já se segue aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
+   🚀 Áreas de Interesse
+
+🤖 Automação de Processos (Bots, RPA, Integrações com APIs)
+
+🧠 Inteligência Artificial (Chatbots, Agentes Autônomos, IA aplicada a negócios)
+
+⚙️ Desenvolvimento de Sistemas e Ferramentas de Produtividade
+
+☁️ Aplicações Web e Integração de Serviços�️
   </p>
   
 </div>
