@@ -15,9 +15,9 @@ Gosto de transformar ideias em soluções práticas, criando sistemas que otimiz
   </p>
   
   <p align="center">
-    
+   <p >
    🚀 Áreas de Interesse
-
+</p>
 🤖 Automação de Processos (Bots, RPA, Integrações com APIs)
 
 🧠 Inteligência Artificial (Chatbots, Agentes Autônomos, IA aplicada a negócios)
